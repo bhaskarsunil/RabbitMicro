@@ -1,0 +1,2 @@
+# RabbitMicro
+RabbitMQ microservice
